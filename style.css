@@ -1,0 +1,19 @@
+* {
+  font-family: 'Open Sans', Helvetica;
+  font-weight: 400;
+  box-sizing: border-box;
+}
+h1,h2,h3,h4 {
+  font-weight: 300;
+}
+img {
+  border: 1em solid #1abc9c;
+  border-radius: .2em;
+  max-width: 100%;
+}
+.container {
+  font-size: 1.5em;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
